@@ -1,12 +1,13 @@
-👋 Hi, I’m @Cartier1100
+Hi there!👋
+In this repository I'm goind to upload my different projects over time.
+I'm not an expert in programming, not even a junior I would say so don't expect too much
+if you're looking for a reliable and professional content.
 
-👀 I’m interested in IA, machine learning, programming languages, hacking and big data.
+If you want to take a look and contact with me to improve some code in my programms
+I will be so happy to talk with you and to perfect all I can.
 
-🌱 I’m currently learning and studying for an advanced technician in administration of network computer systems certificate.
-
-💞️ I’m looking to collaborate on exciting projects and jobs to learn new things and be a better IT Technician.
-
-📫 How to reach me: You can reach me via email at jesusmaciasit@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/jes%C3%BAs-mac%C3%ADas-dur%C3%A1n-002617271/
+This repository is made
+for fun and ✨ rookie ✨ projects 
 
 <!---
 Cartier1100/Cartier1100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
